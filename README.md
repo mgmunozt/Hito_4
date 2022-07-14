@@ -1,24 +1,34 @@
-# README
+# App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Description Aplicación realizada en Ruby on Rails 7.0.3 para el control y planificación de de actividades
 
-Things you may want to cover:
+Badges
 
-* Ruby version
+Images that convey metadata, for example if all the tests are passing or not in the project. Visuals, Screenshots, videos or GIFs of the project. Starting.
 
-* System dependencies
+Instructions to obtain a copy of the project and implement it on a local machine for development and testing. Pre-requisites: ruby "2.7.6" rails "7.0.3" psql (14.4)
 
-* Configuration
+Dependencies to run the project:
 
-* Database creation
+Operating system Ver. Windows 10 Home Single Language 21H2
+Programming language Ver. ruby "2.7.6"
+Framework and its version Ver. rails "7.0.3"
+Database Ver. psql (14.4)
 
-* Database initialization
+Installation:
 
-* How to run the test suite
+Steps to install and run the project locally
 
-* Services (job queues, cache servers, search engines, etc.)
+Step 1: Revisar tener las versiones de software utilizadas para construir el proyecto
 
-* Deployment instructions
+Step 2: Clonar el proyecto desde Github
 
-* ...
+Step 3: Ejecutar bundle
+
+Step 4: Crear la base de datos
+
+Step 5: Realizar migracion de datos
+
+Deployment
+
+How to bring the project to production (Description)
